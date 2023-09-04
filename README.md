@@ -7,7 +7,6 @@ An LSTM-based seq2seq encoder-decoder model trained to convert audio data into A
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Data
 - **Source**: This model was trained on input data in the form of the audio of pop songs and target data in the form of the midi files of each song's a cappella arrangement.
