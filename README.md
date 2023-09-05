@@ -1,5 +1,5 @@
 # A-Cappella-Arrangement-AI
-An LSTM-based seq2seq encoder-decoder model trained to convert audio data into A Cappella arrangements. The input is processed audio data in the form of piano roll data, and the output is a corresponding A Cappella arrangement in the form of a MIDI file.
+**IN-PROGRESS** An LSTM-based seq2seq encoder-decoder model trained to convert audio data into A Cappella arrangements. The input is processed audio data in the form of piano roll data, and the output is a corresponding A Cappella arrangement in the form of a MIDI file.
 
 ## Table of Contents
 - [Data](#data)
